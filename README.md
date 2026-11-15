@@ -30,7 +30,9 @@ Rendering is on-demand (the GPU idles when nothing changes). Enable **Performanc
 ## Navigation
 
 Middle-drag pan · Shift+middle-drag orbit · wheel zoom to cursor · F6 fit · ViewCube click/drag
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Instruction video
+https://drive.google.com/file/d/1mYgPufDR_J_HQGsKKuLvEBNgTDC-fOw2/view?usp=sharing
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Details:
 
