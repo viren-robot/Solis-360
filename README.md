@@ -6,7 +6,9 @@ A lightweight parametric 3D CAD application with a Fusion-style workspace, built
 
 - **Desktop app (Windows):** double-click `Start Solis 360.bat` (first run installs dependencies), or run `npm run app`.<img width="708" height="293" alt="image" src="https://github.com/user-attachments/assets/7b44ed2d-8ec9-4def-b531-da3cd35c0bea" />
 
-- **In a browser:** `npm run dev`, then open http://localhost:5360
+- **In a browser:** `npm run dev`, then open http://localhost:5360<img width="1471" height="691" alt="image" src="https://github.com/user-attachments/assets/846c72c7-8447-419c-a123-8196705e750a" /> <img width="1907" height="972" alt="image" src="https://github.com/user-attachments/assets/1dad854c-c733-4a4b-8a1f-c758cdf71c4f" />
+
+
 
 ## Features
 <img width="1770" height="1015" alt="image" src="https://github.com/user-attachments/assets/e2ba59c8-68f6-4303-82b7-40b3ad217585" />
