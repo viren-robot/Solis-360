@@ -2,6 +2,7 @@
 
 A lightweight parametric 3D CAD application with a Fusion-style workspace, built to run smoothly on integrated graphics (Intel UHD/Iris, AMD Radeon Vega APUs).
 
+
 ## Run it
 
 - **Desktop app (Windows):** double-click `Start Solis 360.bat` (first run installs dependencies), or run `npm run app`.<img width="708" height="293" alt="image" src="https://github.com/user-attachments/assets/7b44ed2d-8ec9-4def-b531-da3cd35c0bea" />
